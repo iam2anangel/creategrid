@@ -1,0 +1,73 @@
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    color: tomato;
+}
+
+
+
+li {
+    display: inline-block;
+    list-style-type: none;
+    
+
+}
+
+#topgrid {
+    border: 1px solid red;
+
+}
+
+.grid {
+
+}
+
+#answer {
+    color: white;
+
+}
+.row {
+    height: 100px;
+}
+.cell {
+    overflow: hidden;
+    height: 100px;
+    width: 143px;
+    display: inline-block;
+    border: 2px solid black;
+    background-color: teal;
+
+}
+.topCell {
+    overflow: hidden;
+    border: 1px solid black;
+    background-color: teal;
+    color: red;
+
+
+}
+.bottomCell {
+    overflow: hidden;
+    border: 1px solid whitesmoke;
+    background-color: teal;
+    color: red;
+}
+button {
+    font-size: 16px;
+
+}
+
+#questionBox {
+    font-size: 16px;
+}
+#answerBox {
+    font-size: 16px;
+}
+
+.point-value {
+
+}
+margin {
+
+}
+
